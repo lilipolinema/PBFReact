@@ -1,0 +1,31 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": 1841720001,
+      "id": 1,
+      "nama": "Liiili",
+      "alamat": "Jl. Soekarno Hatta No. 29 Malang",
+      "hp": "081678900",
+      "angkatan": 2018,
+      "status": "Aktif"
+    },
+    {
+      "NIM": 174172002,
+      "id": 2,
+      "nama": "nanaa",
+      "alamat": "Jl. Menur No. 19 Surabaya",
+      "hp": "0814567890",
+      "angkatan": 2017,
+      "status": "Aktif"
+    },
+    {
+      "NIM": 1941720088,
+      "id": 3,
+      "nama": "Riyan",
+      "alamat": "Jl. Indah No.17 Malang",
+      "hp": "0890986777",
+      "angkatan": 2019,
+      "status": "Aktif"
+    }
+  ]
+}
